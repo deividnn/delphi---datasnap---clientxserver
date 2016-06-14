@@ -1,0 +1,17 @@
+program PrjClient;
+
+uses
+  Vcl.Forms,
+  ufrmMain in 'ufrmMain.pas' {Form4},
+  uDM in 'uDM.pas' {DM: TDataModule};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm4, Form4);
+  Application.CreateForm(TDM, DM);
+  Application.Run;
+end.
+

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/13 14:33:03.000.903,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/04/13 17:13:16.000.742,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/05/03 15:28:53.000.027,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/05/03 15:57:52.000.056,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/06/08 17:52:04.000.977,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/06/14 08:50:02.419,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/06/14 08:50:02.586,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/06/14 08:50:06.817,=C:\Users\criare\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2016/06/14 08:52:57.653,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (25)\ufrmMain.pas=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/06/14 08:52:57.653,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (25)\ufrmMain.dfm=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2016/06/14 08:53:24.420,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (25)\uSC.dfm=C:\Users\criare\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm</Transaction>
+    <Transaction>2016/06/14 08:53:24.420,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (25)\uSC.pas=C:\Users\criare\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2016/06/14 08:53:30.671,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (25)\uSM.pas=C:\Users\criare\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2016/06/14 08:53:30.671,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (25)\uSM.dfm=C:\Users\criare\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>2016/06/14 08:53:40.309,C:\Users\criare\Documents\Embarcadero\Studio\Projects\Nova pasta (25)\PrjServer.dproj=C:\Users\criare\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
