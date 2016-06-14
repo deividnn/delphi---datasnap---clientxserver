@@ -16,7 +16,7 @@ function TSM.somar(x, y: integer): integer;
 begin
   Result := x + y;
 end;
-<br/>
+<br/><br/>
 aperte f9 e deixe a aplicacao executando
 <br/><br/>
 
@@ -45,5 +45,5 @@ begin
      c:=ClientModule1.SMClient.somar(a,b);
      resultado.Caption:=inttostr(c);
 end;
-<br/>
+<br/><br/>
 execute aplicacao e teste
